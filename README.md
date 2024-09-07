@@ -1,6 +1,7 @@
 # Circuit-Bending-Materials
 
-# Circuit Bending in the Classroom
+
+## Circuit Bending in the Classroom
 
 ## What is Circuit Bending?
 
