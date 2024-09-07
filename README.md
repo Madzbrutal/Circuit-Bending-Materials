@@ -1,8 +1,5 @@
 # Circuit-Bending-Toolkit
 
-
-## Circuit Bending in the Classroom
-
 ## What is Circuit Bending?
 
 Circuit bending is the creative practice of modifying the internal circuitry of electronic devices to create new sounds or functionalities that weren't originally intended. This is typically done by exposing the circuit board and experimenting with connections to discover "glitches" or unpredictable outcomes. It's a form of hardware hacking that embraces chance and improvisation.
