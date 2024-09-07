@@ -1,4 +1,4 @@
-# Circuit-Bending-Materials
+# Circuit-Bending-Toolkit
 
 
 ## Circuit Bending in the Classroom
